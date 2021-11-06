@@ -1,4 +1,4 @@
-package src.chapter02.exercise;
+package chapter02.exercise;
 
 public class E06_Storage {
     public int storage(String s) {

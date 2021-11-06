@@ -1,4 +1,4 @@
-package src.chapter02.exercise;
+package chapter02.exercise;
 
 class StaticTest {
     static int i = 100;

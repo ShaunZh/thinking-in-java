@@ -1,4 +1,4 @@
-package src.chapter02.exercise;
+package chapter02.exercise;
 
 public class test01 {
     static int intNum;

@@ -1,4 +1,4 @@
-package src.chapter02.exercise;
+package chapter02.exercise;
 
 public class E08_StaticInstance {
     static int psData = 57;

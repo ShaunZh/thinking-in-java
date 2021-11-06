@@ -1,4 +1,4 @@
-package src.chapter05.exercise;
+package chapter05.exercise;
 
 public class E01_InitNull {
     String st; // 未初始化的String引用会被Java初始化为null

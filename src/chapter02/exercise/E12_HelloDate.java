@@ -1,4 +1,4 @@
-package src.chapter02.exercise;//: object/HelloDate.java
+package chapter02.exercise;//: object/HelloDate.java
 import java.util.*;
 
 /** Thinking in java的第一个示例程序
