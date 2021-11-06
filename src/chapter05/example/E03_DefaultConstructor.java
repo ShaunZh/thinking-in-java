@@ -15,7 +15,7 @@ public class E03_DefaultConstructor {
         Bird2 b2 = new Bird2(1);
         // 下面代码如果不添加参数，编译器会报错，因为它不知道使用Bird2中的哪个构造器来生成对象，
         // Bird2中的两个构造器都有参数
-         Bird2 b2_1 = new Bird2();
+         Bird2 b2_1 = new Bird2(3.1415926);
     }
 }
 
