@@ -1,5 +1,6 @@
 package chapter05.example;
 
+
 class A{}
 public class E8_VarArgs {
     static void printArray(Object... args) {
