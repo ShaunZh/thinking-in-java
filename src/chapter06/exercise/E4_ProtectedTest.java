@@ -4,7 +4,7 @@ class E4_Cookie {
     public E4_Cookie() {
         System.out.printf("Cookie constructor");
     }
-    protected void bit() {
+    void bit() {
         System.out.printf("bite");
     }
 }
